@@ -3,7 +3,7 @@
 ## Description
 Simple movie poster website, uses the Udacity `Fresh Tomatoes.py` code
 and `media.py` code to create a simple website of movies
-hard coded into `entertainment_center.py`
+hard coded into `entertainment_center.py` as suggested during lectures
 
 ## Files
 - media.py
