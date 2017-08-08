@@ -9,6 +9,9 @@ class Movie():
         poster_image_url: A string containing the movies poster via IMDB
         trailer_youtube_url: A string to the best quality trailer for the movie on YouTube
         VALID_RATINGS: a string of the movies rating - G, PG, PG-13 or R
+
+    Functions:
+        All attributes can be displayed with show_[Attribute Name] function calls
     
     """
     
